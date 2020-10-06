@@ -8,7 +8,9 @@
         "cold"
     ],
     "caves": false,
-    "name": "Example",
+    "decorate": true,
+    "focus": "",
+    "name": "Hello Iris",
     "fluidHeight": 63,
     "carving": false,
     "version": 1
